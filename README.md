@@ -17,6 +17,8 @@ class SoftwareEngineer:
         self.name = "Travis Wood"
         self.role = "Software Engineer"
         self.languages = ["Javascript", "Python", "SQL", "HTML", "CSS"]
+        self.location = "IA"
+        self.email = "tww2013@gmail.com"
 
     def say_hi(self):
         print("Thanks for coming  by, hope you find some of my work interesting.")
