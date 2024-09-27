@@ -16,6 +16,7 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Travis Wood"
         self.role = "Software Engineer"
+        self.languages = ["Javascript", "Python", "SQL", "HTML", "CSS"]
 
     def say_hi(self):
         print("Thanks for coming  by, hope you find some of my work interesting.")
