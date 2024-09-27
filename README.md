@@ -21,7 +21,7 @@ me.say_hi()
 
 
 <a href="https://github.com/Zhenye-Na/DA-RNN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=traviswood1&API-project&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="API-project" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=traviswood1&repot=API-project&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="API-project" />
 </a>
 
 <a href="https://github.com/Zhenye-Na/crnn-pytorch">
