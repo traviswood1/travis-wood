@@ -13,7 +13,7 @@
 # -*- coding: utf-8 -*-
 
 
-class SoftwareEngineer:
+class AboutMe:
 
     def __init__(self):
         self.name = "Travis Wood"
@@ -23,10 +23,10 @@ class SoftwareEngineer:
         self.email = "tww2013@gmail.com"
 
     def say_hi(self):
-        print("Thanks for coming  by, hope you find some of my work interesting.")
+        print("Thanks for stopping by, hope you find some of my work interesting.")
 
 
-me = SoftwareEngineer()
+me = AboutMe()
 me.say_hi()
 ```
 
