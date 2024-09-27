@@ -21,6 +21,7 @@ class AboutMe:
         self.languages = ["Javascript", "Python", "SQL", "HTML", "CSS"]
         self.location = "IA"
         self.email = "tww2013@gmail.com"
+        self.hobbies = ["Disc Golf", "Video Games", "Biking", "Exercising", "Foodie"]
 
     def say_hi(self):
         print("Thanks for stopping by, hope you find some of my work interesting.")
